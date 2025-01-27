@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-NotMineNevaWasGp/NotMineNevaWasGp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://gist.github.com/NotMineNevaWasGp/f1aaafabad0a9aa29bd79c1ca3eee777.jsNotMineNevaWasGp/NotMineNevaWasGp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
